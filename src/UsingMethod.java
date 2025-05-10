@@ -16,7 +16,6 @@ public class UsingMethod
         UsingMethod buzo = new UsingMethod();
         buzo.objInit("red",10);
         buzo.display();
-
     }
 
 }
